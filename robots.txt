@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meihoowoh.capellait.no/sitemap.xml
